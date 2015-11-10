@@ -5,9 +5,9 @@
  * license that can be found in the LICENSE file.
  */
 
-require_once '../DateTimeHandler.php';
+/*require_once '../DateTimeHandler.php';
 require_once '../TimeSlot.php';
-require_once '../TestTimeSlot.php';
+require_once '../TestTimeSlot.php';*/
 
 /**
  * DateTimeHandler test case.
