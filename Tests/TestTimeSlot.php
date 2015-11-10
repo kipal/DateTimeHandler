@@ -5,7 +5,7 @@
  * license that can be found in the LICENSE file.
  */
 
-require_once '../TimeSlot.php';
+require_once __DIR__ . '/../TimeSlot.php';
 
 class TestTimeSlot implements TimeSlot
 {
